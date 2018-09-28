@@ -2,3 +2,7 @@
 	path = web
 	url = git@github.com:modoolar/web.git
 	branch = 11.0
+[submodule "server"]
+	path = server
+	url = git@github.com:modoolar/server.git
+	branch = 11.0
